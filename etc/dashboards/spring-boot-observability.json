@@ -721,7 +721,7 @@
           },
           "editorMode": "code",
           "exemplar": true,
-          "expr": "histogram_quantile(.95,sum(rate(http_server_requests_seconds_bucket{application=\"$app_name\", uri!=\"/actuator/prometheus\"}[1m])) by(uri, le))",
+          "expr": "histogram_quantile(.95,sum(rate(http_server_requests_seconds_bucket{application=\"$app_name\", uri!=\"/actuator/prometheus\", uri!=\"/actuator\", status!=\"404\"}[1h])) by(uri, le))",
           "interval": "",
           "legendFormat": "{{uri}}",
           "range": true,
