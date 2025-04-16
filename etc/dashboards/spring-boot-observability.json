@@ -999,7 +999,7 @@
             "uid": "loki"
           },
           "editorMode": "code",
-          "expr": "{compose_service=~\"app-.*\"} | pattern `<date> <time> <_>=<trace_id> <_>=<span_id> <_>=<trace_flags> <type> <_> --- <msg>` ",
+          "expr": "{compose_service=~\"app-mapshot\"}",
           "hide": false,
           "queryType": "range",
           "refId": "A"
