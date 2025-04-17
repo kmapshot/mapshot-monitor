@@ -1,5 +1,7 @@
 ## Mapshot Monitor
 
+### server
+
 - grafana, prometheus, loki, tempo
 - 템플릿 정보 [spring-boot-observability](https://github.com/blueswen/spring-boot-observability)
 
@@ -11,13 +13,16 @@
 
 ![Image](https://github.com/user-attachments/assets/fe058ab8-bbee-40dd-8f58-81c4b890163e)
 
-- url 모니터링: https://status.kmapshot.com/
+### url
+- https://status.kmapshot.com/
   
 ![image](https://github.com/user-attachments/assets/bf9ad5d9-7355-4fc2-b063-91360e083883)
 
 ![image](https://github.com/user-attachments/assets/1a1153b3-f052-4df2-a8fe-98bbceffe97c)
 
 ![image](https://github.com/user-attachments/assets/fd734cce-2181-4994-bf70-27c2fc7b509b)
+
+### front
 
 - sentry
 
