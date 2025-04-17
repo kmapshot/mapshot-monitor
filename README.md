@@ -11,6 +11,16 @@
 
 ![Image](https://github.com/user-attachments/assets/fe058ab8-bbee-40dd-8f58-81c4b890163e)
 
-- 그외 모니터링
-  - url 모니터링: https://status.kmapshot.com/
-  - sentry (trace, replay)
+- url 모니터링: https://status.kmapshot.com/
+  
+![image](https://github.com/user-attachments/assets/bf9ad5d9-7355-4fc2-b063-91360e083883)
+
+![image](https://github.com/user-attachments/assets/1a1153b3-f052-4df2-a8fe-98bbceffe97c)
+
+![image](https://github.com/user-attachments/assets/fd734cce-2181-4994-bf70-27c2fc7b509b)
+
+- sentry
+
+![image](https://github.com/user-attachments/assets/57e86b92-8205-4f9e-8c30-f5aa06d95acf)
+
+![image](https://github.com/user-attachments/assets/43f10201-09ab-4367-8fe3-5eb2616294e1)
