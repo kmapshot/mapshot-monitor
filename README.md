@@ -2,6 +2,8 @@
 
 ### server
 
+- 오라클 클라우드
+  - 서버 스펙이 메롱이라 너무 느림.... 애저로 가던지 다른 방법 생각좀 
 - grafana, prometheus, loki, tempo
 - 템플릿 정보 [spring-boot-observability](https://github.com/blueswen/spring-boot-observability)
 
